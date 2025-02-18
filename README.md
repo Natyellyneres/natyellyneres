@@ -1,9 +1,9 @@
-## 👋 Olá, eu sou Natyelly Neres!
+## 👋 Olá, eu sou Natyelly Neres!🌸✨
 ### 🚀 Desenvolvedor(a) Full Stack | Apaixonado(a) por Tecnologia
 
 💻 Atualmente estudando **Análise e Desenvolvimento de Sistemas**  
 📚 Aprimorando minhas habilidades em **HTML, CSS, JavaScript,Java, Node.js**  
-🌍 Aberto(a) a colaborações e novas oportunidades!
+✨🌸 Aberto(a) a colaborações e novas oportunidades!🌸✨
 
 ---
 
