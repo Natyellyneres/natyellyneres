@@ -1,7 +1,7 @@
-## 👋 Olá, eu sou [Seu Nome]!
+## 👋 Olá, eu sou Natyelly Neres!
 ### 🚀 Desenvolvedor(a) Full Stack | Apaixonado(a) por Tecnologia
 
-![GitHub Banner](https://github.com/[seu-usuario]/[seu-usuario]/blob/main/banner.png)
+![GitHub Banner](https://github.com/Natyellyneres/Natyellyneres/blob/main/banner.png)
 
 💻 Atualmente estudando **Análise e Desenvolvimento de Sistemas**  
 📚 Aprimorando minhas habilidades em **HTML, CSS, JavaScript, React, Node.js**  
