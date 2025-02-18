@@ -4,7 +4,7 @@
 ![GitHub Banner](https://github.com/Natyellyneres/Natyellyneres/blob/main/banner.png)
 
 💻 Atualmente estudando **Análise e Desenvolvimento de Sistemas**  
-📚 Aprimorando minhas habilidades em **HTML, CSS, JavaScript, React, Node.js**  
+📚 Aprimorando minhas habilidades em **HTML, CSS, JavaScript, Node.js**  
 🌍 Aberto(a) a colaborações e novas oportunidades!
 
 ---
