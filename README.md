@@ -1,7 +1,8 @@
 ## 👋 Olá, eu sou Natyelly Neres!
 ### 🚀 Desenvolvedor(a) Full Stack | Apaixonado(a) por Tecnologia
 
-![GitHub Banner](https://github.com/Natyellyneres/Natyellyneres/blob/main/banner.png)
+![GitHub Banner](https://raw.githubusercontent.com/Natyellyneres/Natyellyneres/main/banner.png)
+
 
 💻 Atualmente estudando **Análise e Desenvolvimento de Sistemas**  
 📚 Aprimorando minhas habilidades em **HTML, CSS, JavaScript, Node.js**  
