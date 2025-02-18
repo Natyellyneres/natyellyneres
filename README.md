@@ -8,7 +8,7 @@
 ---
 
 ### 📊 Minhas Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NatyellyNeres&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Natyellyneres=NatyellyNeres&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=NatyellyNeres&layout=compact&theme=radical)
 
