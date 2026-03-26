@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="400" src="coloque o link aqui">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/1200x/bd/23/c1/bd23c1eed2e96bb7fd6012fe52ab01af.jpg">
 ## 👋 Olá, eu sou Natyelly Neres!🌸✨
 ### 🚀 Desenvolvedor(a) Full Stack | Apaixonado(a) por Tecnologia
 
